@@ -21,9 +21,9 @@
 
 int suma_digitos(int n1)
 {
-    if(n1<0)
+    if(n1<0)                                        //Si es negativo,
     {   
-        n1=-n1;
+        n1=-n1;                                     //Obtiene su valor absoluto.
     }
     
     if(n1<=9)                                       //CASO BASE
