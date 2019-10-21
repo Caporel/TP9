@@ -1,7 +1,6 @@
 /* 
  * File:   suma_digitos.h
  * Author: Grupo 3
- *
  * Created on October 17, 2019, 10:29 PM
  */
 

@@ -8,9 +8,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include"suma_digitos.h"
-/*
- * 
- */
+
 
 int main(void)
 {
