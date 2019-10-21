@@ -14,9 +14,9 @@
 
 int main(void)
 {
-    int a=125;
+    int a=125;                                                      //Defino y declaro número a analizar.                                
     
-    suma_digitos(a);
+    printf("Las cifras de %d sumadas dan %d\n",a,suma_digitos(a));  //Llamo a la función y muestro al usuario el resultado.
     
     return (EXIT_SUCCESS);
 }
