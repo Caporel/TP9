@@ -36,4 +36,3 @@ int suma_digitos(int n1)
     }
     
 }
-
